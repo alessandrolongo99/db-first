@@ -1,0 +1,11 @@
+nome_tabella: auto_usate
+
+id - SMALL - AUTO_INCREMENT
+marca - VARCHAR(20) - NOTNULL
+modello - VARCHAR(20) - NOTNULL
+targa - VARCHAR(7) - NOTNULL
+colore - VARCHAR(20) - NULL
+cilindrata - SMALL - NULL
+neo_patentati - TINYINT - NULL
+telaio - VARCHAR(17) - NOTNULL
+valore - FLOAT(6,2) - NULL
